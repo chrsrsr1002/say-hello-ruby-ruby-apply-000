@@ -1,9 +1,9 @@
 # Build your say_hello method here
-def say_hello(language = "Ruby Programmer")
-  puts "Hello, #{language}.
+def say_hello("Kent Beck")
+  puts "Hello,
 end 
 
-say_hello(language)
+say_hello
 
 
 
